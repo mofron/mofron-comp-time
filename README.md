@@ -1,2 +1,2 @@
-# mofron-parts-time
-time component for mofron
+# mofron-comp-time
+Time Component for mofron
